@@ -1,0 +1,6 @@
+@RPN.API_HostAddress = http://localhost:5147
+
+GET {{RPN.API_HostAddress}}/
+Accept: application/json
+
+###

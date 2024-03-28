@@ -1,0 +1,122 @@
+[
+  {
+    "ContainingType": "RPN.API.Controllers.OperandController",
+    "Method": "Get",
+    "RelativePath": "rpn/Operand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.OperandController",
+    "Method": "Post",
+    "RelativePath": "rpn/Operand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operand",
+        "Type": "System.Char",
+        "IsRequired": false
+      },
+      {
+        "Name": "stack_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "GetAllStacks",
+    "RelativePath": "rpn/Stack",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "CreateStack",
+    "RelativePath": "rpn/Stack",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "DeleteStack",
+    "RelativePath": "rpn/Stack/{stack_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stack_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "GetStack",
+    "RelativePath": "rpn/Stack/stack/{stack_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stack_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "PushValue",
+    "RelativePath": "rpn/Stack/stack/{stack_id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stack_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RPN.API.Controllers.StackController",
+    "Method": "PopValue",
+    "RelativePath": "rpn/Stack/stack/{stack_id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stack_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

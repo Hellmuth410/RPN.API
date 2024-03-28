@@ -1,0 +1,11 @@
+D:\VisualStudio2022\repos\RPN\RPN.Utils\bin\Debug\net8.0\RPN.Utils.deps.json
+D:\VisualStudio2022\repos\RPN\RPN.Utils\bin\Debug\net8.0\RPN.Utils.dll
+D:\VisualStudio2022\repos\RPN\RPN.Utils\bin\Debug\net8.0\RPN.Utils.pdb
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.AssemblyInfoInputs.cache
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.AssemblyInfo.cs
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.dll
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\refint\RPN.Utils.dll
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\RPN.Utils.pdb
+D:\VisualStudio2022\repos\RPN\RPN.Utils\obj\Debug\net8.0\ref\RPN.Utils.dll

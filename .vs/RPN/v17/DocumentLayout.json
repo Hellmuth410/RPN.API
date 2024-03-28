@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio2022\\repos\\RPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5657A8C-9885-44F1-B48B-C1F9B4416CC4}|RPN.Tests\\RPN.BO.Tests.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.tests\\operandservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5657A8C-9885-44F1-B48B-C1F9B4416CC4}|RPN.Tests\\RPN.BO.Tests.csproj|solutionrelative:rpn.tests\\operandservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.api\\todo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|solutionrelative:rpn.api\\todo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.api\\roadmap.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|solutionrelative:rpn.api\\roadmap.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5657A8C-9885-44F1-B48B-C1F9B4416CC4}|RPN.Tests\\RPN.BO.Tests.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.tests\\stackservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5657A8C-9885-44F1-B48B-C1F9B4416CC4}|RPN.Tests\\RPN.BO.Tests.csproj|solutionrelative:rpn.tests\\stackservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EC20C-7BBC-4E65-8A25-9BFD307D17DF}|RPN.BO\\RPN.BO.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.bo\\services\\stackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EC20C-7BBC-4E65-8A25-9BFD307D17DF}|RPN.BO\\RPN.BO.csproj|solutionrelative:rpn.bo\\services\\stackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.api\\controllers\\stackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|solutionrelative:rpn.api\\controllers\\stackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.api\\controllers\\operandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|solutionrelative:rpn.api\\controllers\\operandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EC20C-7BBC-4E65-8A25-9BFD307D17DF}|RPN.BO\\RPN.BO.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.bo\\services\\operandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EC20C-7BBC-4E65-8A25-9BFD307D17DF}|RPN.BO\\RPN.BO.csproj|solutionrelative:rpn.bo\\services\\operandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|d:\\visualstudio2022\\repos\\rpn\\rpn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D027132-FDBA-49AC-91F8-119343ECC262}|RPN.API\\RPN.API.csproj|solutionrelative:rpn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "roadmap.md",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\roadmap.md",
+              "RelativeDocumentMoniker": "RPN.API\\roadmap.md",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\roadmap.md",
+              "RelativeToolTip": "RPN.API\\roadmap.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-28T18:07:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TODO.md",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\TODO.md",
+              "RelativeDocumentMoniker": "RPN.API\\TODO.md",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\TODO.md",
+              "RelativeToolTip": "RPN.API\\TODO.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-28T18:07:34.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackController.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Controllers\\StackController.cs",
+              "RelativeDocumentMoniker": "RPN.API\\Controllers\\StackController.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Controllers\\StackController.cs",
+              "RelativeToolTip": "RPN.API\\Controllers\\StackController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAASwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:43:52.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperandService.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.BO\\Services\\OperandService.cs",
+              "RelativeDocumentMoniker": "RPN.BO\\Services\\OperandService.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.BO\\Services\\OperandService.cs",
+              "RelativeToolTip": "RPN.BO\\Services\\OperandService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwBYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:34:24.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StackService.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.BO\\Services\\StackService.cs",
+              "RelativeDocumentMoniker": "RPN.BO\\Services\\StackService.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.BO\\Services\\StackService.cs",
+              "RelativeToolTip": "RPN.BO\\Services\\StackService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvxwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:29:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Program.cs",
+              "RelativeDocumentMoniker": "RPN.API\\Program.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Program.cs",
+              "RelativeToolTip": "RPN.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:26:49.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperandController.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Controllers\\OperandController.cs",
+              "RelativeDocumentMoniker": "RPN.API\\Controllers\\OperandController.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.API\\Controllers\\OperandController.cs",
+              "RelativeToolTip": "RPN.API\\Controllers\\OperandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:25:10.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperandServiceTest.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.Tests\\OperandServiceTest.cs",
+              "RelativeDocumentMoniker": "RPN.Tests\\OperandServiceTest.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.Tests\\OperandServiceTest.cs",
+              "RelativeToolTip": "RPN.Tests\\OperandServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:23:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackServiceTest.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\RPN\\RPN.Tests\\StackServiceTest.cs",
+              "RelativeDocumentMoniker": "RPN.Tests\\StackServiceTest.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\RPN\\RPN.Tests\\StackServiceTest.cs",
+              "RelativeToolTip": "RPN.Tests\\StackServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:23:12.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

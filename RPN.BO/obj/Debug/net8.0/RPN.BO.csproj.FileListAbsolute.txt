@@ -1,0 +1,15 @@
+D:\VisualStudio2022\repos\RPN\RPN.BO\bin\Debug\net8.0\RPN.BO.deps.json
+D:\VisualStudio2022\repos\RPN\RPN.BO\bin\Debug\net8.0\RPN.BO.dll
+D:\VisualStudio2022\repos\RPN\RPN.BO\bin\Debug\net8.0\RPN.BO.pdb
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.AssemblyInfoInputs.cache
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.AssemblyInfo.cs
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.dll
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\refint\RPN.BO.dll
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.pdb
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\ref\RPN.BO.dll
+D:\VisualStudio2022\repos\RPN\RPN.BO\bin\Debug\net8.0\RPN.Utils.dll
+D:\VisualStudio2022\repos\RPN\RPN.BO\bin\Debug\net8.0\RPN.Utils.pdb
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.csproj.AssemblyReference.cache
+D:\VisualStudio2022\repos\RPN\RPN.BO\obj\Debug\net8.0\RPN.BO.csproj.Up2Date
